@@ -161,5 +161,7 @@
     }
 
     .repo{
-        
+       background-color: #f4511e !important;
+       text-decoration: none !important;
+       color: #fff  !important;
     }
