@@ -1,5 +1,5 @@
 .jumbotron {
-    background-color: #f4511e;
+    background-color:#9A7D0A ;
     width: 100%;
     }
     .display-4{
@@ -46,7 +46,7 @@
     
     .fa{
         font-size: 200px;
-        color: #f4511e;
+        color: #9A7D0A ;
         margin-top: 100px;
     
     }
@@ -61,15 +61,15 @@
     
     .carousel-control.right, .carousel-control.left {
         background-image: none;
-        color: #f4511e;
+        color: #9A7D0A ;
       }
       
       .carousel-indicators li {
-        border-color: #f4511e;
+        border-color: #9A7D0A ;
       }
       
       .carousel-indicators li.active {
-        background-color: #f4511e;
+        background-color:#9A7D0A ;
     
       }
       
@@ -89,7 +89,7 @@
     
     
       .panel {
-        border: 1px solid #f4511e;
+        border: 1px solid #9A7D0A ;
         border-radius: 0 !important;
         transition: box-shadow 0.5s;
     }
@@ -107,7 +107,7 @@
     
     
     .btn{
-        background-color: #f4511e;
+        background-color: #9A7D0A ;
         color: black;
     }
     
@@ -126,7 +126,7 @@
     
     .navbar {
       margin-bottom: 0;
-      background-color: #f4511e;
+      background-color: #9A7D0A ;
       z-index: 9999;
       border: 0;
       font-size: 12px !important;
@@ -151,7 +151,7 @@
     }
     
     .navbar-nav  a:hover, .navbar-nav a.active  {
-      color: #f4511e !important;
+      color: #9A7D0A  !important;
       background-color: #fff !important;
     }
     
@@ -161,7 +161,7 @@
     }
 
     .repo{
-       background-color: #f4511e !important;
+       background-color: #9A7D0A  !important;
        text-decoration: none !important;
        color: #fff  !important;
     }
